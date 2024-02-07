@@ -1,7 +1,7 @@
 # Rock Paper Scissors
 
 * Created a game of rock, paper, scissors in which a human can play against a computer player.
-* Applied my Python and object-oriented programming skills to build a program with classes that represent the game and its players.
+* Applied object-oriented programming skills in python to build a program with classes for the game and players.
 
 ## Table of Contents
 
